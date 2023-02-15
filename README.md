@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Andrii-STV
 
-- 👀 I’m interested in front-end web development. I have worked with WordPress sites as a product designer for 2 years,
+- 👀 I’m interested in back-end web development. I have worked with WordPress sites as a product designer for 2 years,
 and now I am practicing creating more complex and customized web sites with HTML and CSS.
  
-- 🌱 I’m currently learning PHP to create complex websites that can be stored on the server, and JavaScript to strengthen my front-end skills.
+- 🌱 I’m currently learning PHP to create complex websites, CMSs and web applications that can be stored on the server.
 
-- 💞️ I’m looking for the companies that are willing to consider me as a part of their team on the position of trainee/junior frontend developer
+- 💞️ I’m looking for the companies that are willing to consider me as a part of their team on the position of trainee/junior backend developer
 
 - 📫 How to reach me: 
 My Instagram: @andrew_stv https://www.instagram.com/andrew_stv/
